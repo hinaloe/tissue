@@ -1,6 +1,4 @@
 // jQuery
-import $ from 'jquery';
-window.$ = window.jQuery = $;
 import './plugins';
 
 // Setup global request header
